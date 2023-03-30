@@ -1,0 +1,1 @@
+This is file is an example for a Checked Exception situation.
